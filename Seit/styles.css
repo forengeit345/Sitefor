@@ -1,0 +1,22 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+.header {
+
+}
+h1 {
+    font-size: 44px;
+}
+.date {
+    font-size: 12px;
+    font-weight: 600;
+    height: 12px;
+    margin: 0 0;
+}
+.info {
+    font-size: 16px;
+    margin-top: 0;
+    text-decoration: none;
+    padding-bottom: 12px;
+    border-bottom: 1px black solid;
+}
